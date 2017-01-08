@@ -1,0 +1,2 @@
+MainPackage=D:\MyProjects\FaceFinderSoln\FaceFinder\bin\ARM\Debug\FaceFinder_1.0.5.0_ARM_Debug.appx
+SymbolPackage=C:\Users\Shashank Huddedar\Desktop\FinalAttemptFaceDetect\FaceFinder_1.0.5.0_Debug_Test\FaceFinder_1.0.5.0_ARM_Debug.appxsym

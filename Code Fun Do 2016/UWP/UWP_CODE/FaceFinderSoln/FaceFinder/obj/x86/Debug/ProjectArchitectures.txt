@@ -1,0 +1,1 @@
+D:\MyProjects\FaceFinderSoln\FaceFinder\FaceFinder.csproj;x86

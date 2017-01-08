@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FaceFinder", "FaceFinder\FaceFinder.csproj", "{81BFC740-12EA-44EF-B7D2-BBAC0969357F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FaceFinderFinal", "FaceFinderFinal\FaceFinderFinal.vdproj", "{DF51D511-50A3-4338-9C5D-606FD1B49856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|ARM.Build.0 = Debug|ARM
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|x64.ActiveCfg = Debug|x64
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|x64.Build.0 = Debug|x64
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|x64.Deploy.0 = Debug|x64
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|x86.ActiveCfg = Debug|x86
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|x86.Build.0 = Debug|x86
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Debug|x86.Deploy.0 = Debug|x86
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|ARM.ActiveCfg = Release|ARM
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|ARM.Build.0 = Release|ARM
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|ARM.Deploy.0 = Release|ARM
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|x64.ActiveCfg = Release|x64
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|x64.Build.0 = Release|x64
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|x64.Deploy.0 = Release|x64
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|x86.ActiveCfg = Release|x86
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|x86.Build.0 = Release|x86
+		{81BFC740-12EA-44EF-B7D2-BBAC0969357F}.Release|x86.Deploy.0 = Release|x86
+		{DF51D511-50A3-4338-9C5D-606FD1B49856}.Debug|ARM.ActiveCfg = Debug
+		{DF51D511-50A3-4338-9C5D-606FD1B49856}.Debug|x64.ActiveCfg = Debug
+		{DF51D511-50A3-4338-9C5D-606FD1B49856}.Debug|x86.ActiveCfg = Debug
+		{DF51D511-50A3-4338-9C5D-606FD1B49856}.Release|ARM.ActiveCfg = Release
+		{DF51D511-50A3-4338-9C5D-606FD1B49856}.Release|x64.ActiveCfg = Release
+		{DF51D511-50A3-4338-9C5D-606FD1B49856}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
